@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray_low">#10000000</color>
+    <color name="gray_back">#7eFFFFFF</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="red">#FE2C55</color>
+    <color name="primary">#2288ff</color>
+    <color name="orange">#ff4900</color>
+    <color name="title_bar">#218cff</color>
+
+
+</resources>
