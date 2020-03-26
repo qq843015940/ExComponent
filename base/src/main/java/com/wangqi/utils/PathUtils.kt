@@ -88,7 +88,7 @@ object PathUtils {
                 }
 
             }
-            if (TextUtils.isEmpty(figit lePath)) {
+            if (TextUtils.isEmpty(filePath)) {
                 try {
                     val contentResolver = context.contentResolver
                     val selection = MediaStore.Images.Media._ID + "= ?"
